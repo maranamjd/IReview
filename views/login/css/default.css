@@ -1,0 +1,45 @@
+.login{
+  margin: 5% 0;
+  background: #fefefe;
+}
+h3::before{
+  content:"i";
+  color: #5b9bd5;
+}
+h3{
+  font-weight: 400;
+}
+.section p{
+  color: #a9a9a9;
+  font-size: 20px;
+}
+.section{
+  margin-top: 50px;
+}
+.section *{
+  margin: 0;
+  padding: 0
+}
+.login-title p{
+  font-size: 20px;
+  font-weight: 600;
+}
+.login-form{
+  padding: 0;
+  margin: 0;
+}
+.login-form button{
+  width: 100%;
+  margin-bottom: 50px;
+  background: #5b9bd5;
+}
+.login-content{
+  padding: 0 15px;
+}
+.login-footer{
+  font-size: 15px;
+  font-weight: 600;
+}
+body{
+  background: #ededed;
+}

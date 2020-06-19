@@ -1,0 +1,46 @@
+
+.testitem{
+  max-height: 200px;
+  height: 100%;
+  margin: 10px;
+  border-radius: 5%;
+  width: 100%;
+}
+.options{
+  margin-top: 15%;
+}
+.test{
+  border-radius: 5px;
+  height: auto;
+  width: 100%;
+  margin: 2% 0;
+  background-color: #fff;
+  display: none;
+}
+.collection-header{
+  max-height: 250px;
+  height: 100%;
+  overflow-y: auto;
+}
+.enum{
+  max-height: 150px;
+  height: 100%;
+  overflow-y: auto;
+}
+.collection.with-header .collection-header{
+  padding: 40px 40px;
+}
+.question{
+  margin: 5% 5%;
+}
+.testnav{
+  margin: 0 10%;
+}
+a{
+  cursor: pointer;
+}
+@media all and (max-width:600px) {
+  a.btn{
+    width: 100%;
+  }
+}

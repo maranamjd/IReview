@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  /* background: #fff; */
+}
+
+nav {
+  color: #e4e4e4;
+}
+div.carousel{
+  width: 100%;
+}
+div.carousel a img{
+  height: 450px;
+}
+.carousel-container{
+  padding: 2em;
+  background-color: rgba(137, 179, 247, 0.2);
+  margin: 0;
+}
+footer ul.right li{
+  display: inline;
+}
+#contact div.section{
+  height: auto;
+}
+#about div.section{
+  height: 330px;
+  padding: 4em;
+}
+div#contact{
+  color: #fff;
+  padding: 2em;
+}
+#message_form{
+  padding: 3em;
+  border-radius: 3px;
+}
+#about img{
+  width: 100%;
+}
+#about h2,p{
+  color: #f9f9f9;
+}

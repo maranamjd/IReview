@@ -1,0 +1,17 @@
+.top-nav{
+  background: #5b9bd5;
+}
+#alrtModal, #msgModal{
+  width: 40%;
+  height: 40%;
+}
+@media all and (max-width:600px) {
+  #alrtModal, #msgModal{
+    width: 90%;
+    height: 50%;
+  }
+}
+.collection .collection-item.avatar{
+  padding-left: 0px;
+  padding-right: 0px;
+}
